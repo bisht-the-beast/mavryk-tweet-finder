@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-13T19:20:00+05:30",
+ "updated": "2026-10-13T20:21:51+05:30",
  "batches": [
+  {
+   "time": "2026-10-13T20:21:51+05:30",
+   "label": "Refresh (page request)",
+   "posts": [
+    {
+     "url": "https://x.com/Securitize/status/2110007829121675516",
+     "author": "Securitize",
+     "followers": 88551,
+     "reply_as": "Mavryk",
+     "reason": "Hot competitor announcement (170 likes) on how institutions absorb tokenized equities into existing markets."
+    },
+    {
+     "url": "https://x.com/plumenetwork/status/2110008128003768397",
+     "author": "plumenetwork",
+     "followers": 852410,
+     "reply_as": "Mavryk",
+     "reason": "Direct L1 competitor shipping cross-chain RWA yield; strong engagement (103 likes) to join the thread."
+    },
+    {
+     "url": "https://x.com/IOV_OWL/status/2110009331307417819",
+     "author": "IOV_OWL",
+     "followers": 183181,
+     "reply_as": "Mavryk",
+     "reason": "Institutional mega-headline (50 likes) where an RWA L1 take on settlement and collateral fits naturally."
+    },
+    {
+     "url": "https://x.com/xStocksFi/status/2110010789218353635",
+     "author": "xStocksFi",
+     "followers": 86740,
+     "reply_as": "Mavryk",
+     "reason": "Competitor showing RWA DeFi composability in action (49 likes, 7 replies); perfect Mavryk lane."
+    },
+    {
+     "url": "https://x.com/DaanCrypto/status/2110009319408177418",
+     "author": "DaanCrypto",
+     "followers": 414405,
+     "reply_as": "Mavryk",
+     "reason": "414k-follower trader with 20 replies already \u2014 an open conversation about how to get tokenization exposure."
+    },
+    {
+     "url": "https://x.com/nickisanders/status/2110015980755997076",
+     "author": "nickisanders",
+     "followers": 19040,
+     "reply_as": "Mavryk",
+     "reason": "Priority account hitting the infra thesis Mavryk owns \u2014 connecting onchain ownership to institutional rails."
+    },
+    {
+     "url": "https://x.com/BirchHill_io/status/2110007670543352178",
+     "author": "BirchHill_io",
+     "followers": 1422,
+     "reply_as": "Equiteez",
+     "reason": "Tokenized rental RE as DeFi collateral \u2014 direct Equiteez competitor territory with real property backing."
+    },
+    {
+     "url": "https://x.com/RWAFoundation_/status/2110017928666230998",
+     "author": "RWAFoundation_",
+     "followers": 31821,
+     "reply_as": "Equiteez",
+     "reason": "Priority account's light, high-reply hook \u2014 easy place for Equiteez to plant real estate as the value being tokenized."
+    }
+   ]
+  },
   {
    "time": "2026-10-13T19:20:00+05:30",
    "label": "",
