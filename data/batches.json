@@ -1,0 +1,60 @@
+{
+ "updated": "2026-10-13T19:20:00+05:30",
+ "batches": [
+  {
+   "time": "2026-10-13T19:20:00+05:30",
+   "label": "",
+   "posts": [
+    {
+     "url": "https://x.com/FTDA_US/status/2109994193237967314",
+     "author": "FTDA_US",
+     "followers": 57000,
+     "reply_as": "Equiteez",
+     "reason": "Fill-in-the-blank '_____ should be tokenized', the busiest post of the hour with 54 replies, and real estate is the obvious answer."
+    },
+    {
+     "url": "https://x.com/Cointelegraph/status/2110000262257467876",
+     "author": "Cointelegraph",
+     "followers": 2900000,
+     "reply_as": "Mavryk",
+     "reason": "S&P and Kaiko's first onchain swap tracking a tokenized index, done on Canton. A big institutional headline."
+    },
+    {
+     "url": "https://x.com/Ondo/status/2109999981037768711",
+     "author": "Ondo",
+     "followers": 383000,
+     "reply_as": "Mavryk",
+     "reason": "'Think in trillions'. A top competitor saying RWAs are just getting started."
+    },
+    {
+     "url": "https://x.com/RyptoCrypto/status/2109999521836982699",
+     "author": "RyptoCrypto",
+     "followers": 33000,
+     "reply_as": "Mavryk",
+     "reason": "Tokenized-stock liquidity is split thinly across Solana, Ethereum and Base. An open question about infrastructure."
+    },
+    {
+     "url": "https://x.com/protofire/status/2109992986654486884",
+     "author": "protofire",
+     "followers": 16000,
+     "reply_as": "Mavryk",
+     "reason": "Podcast clip with Centrifuge and JPMorgan Payments on the cash side of tokenized assets."
+    },
+    {
+     "url": "https://x.com/stofdn/status/2109993838378983836",
+     "author": "stofdn",
+     "followers": 22000,
+     "reply_as": "Equiteez",
+     "reason": "Tokenized assets still need traditional accounting. An opening to show how investors can check what backs each token."
+    },
+    {
+     "url": "https://x.com/EmberProtocol/status/2109993674880725431",
+     "author": "EmberProtocol",
+     "followers": 6000,
+     "reply_as": "Mavryk",
+     "reason": "Vault on Monad giving access to a short-term private credit strategy."
+    }
+   ]
+  }
+ ]
+}
