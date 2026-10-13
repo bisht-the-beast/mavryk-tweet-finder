@@ -10,3 +10,8 @@ h2{font-size:1.05rem;color:#c9d1d9;border-bottom:1px solid #30363d;padding-botto
 .b-Mavryk{background:#3b1f6b;color:#d2b8ff}.b-Equiteez{background:#0f3d2e;color:#7ee2b8}
 .reason{margin:8px 0 6px}a{color:#58a6ff;word-break:break-all;font-size:.85rem}
 @media(max-width:500px){.badge{margin-left:0}}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.act{background:#238636;color:#fff;border:0;border-radius:8px;padding:8px 14px;cursor:pointer;font-weight:600}
+.act.alt{background:#30363d}.note{color:#8b949e;font-size:.8rem;margin:6px 0}
+#addform{display:flex;flex-direction:column;gap:8px;margin:8px 0}#addform[hidden]{display:none}textarea{background:#0d1117;color:#e6edf3;border:1px solid #30363d;border-radius:8px;padding:8px;font:inherit}
+details{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:10px 14px;margin-top:12px}summary{cursor:pointer;font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.chips a{background:#21262d;border-radius:999px;padding:2px 10px;font-size:.85rem}

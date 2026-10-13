@@ -1,0 +1,22 @@
+name: Forward requests to Grok Bot
+on:
+  issues:
+    types: [opened]
+jobs:
+  forward:
+    if: >-
+      github.event.issue.user.login == 'bisht-the-beast' &&
+      (contains(github.event.issue.labels.*.name, 'refresh') ||
+       contains(github.event.issue.labels.*.name, 'add-accounts') ||
+       github.event.issue.title == 'refresh' || github.event.issue.title == 'add-accounts')
+    runs-on: ubuntu-latest
+    steps:
+      - name: POST to webhook
+        env:
+          URL: ${{ secrets.GROKBOT_WEBHOOK_URL }}
+          KEY: ${{ secrets.GROKBOT_WEBHOOK_KEY }}
+          ISSUE: ${{ toJson(github.event.issue) }}
+        run: |
+          if [ -z "$URL" ] || [ -z "$KEY" ]; then echo "GROKBOT_WEBHOOK_URL/KEY secrets not set; skipping."; exit 0; fi
+          payload=$(jq -c '{issue_number:.number,title:.title,body:(.body//""),labels:[.labels[].name],author:.user.login}' <<<"$ISSUE")
+          curl -fsS -X POST "$URL" -H "Content-Type: application/json" -H "Authorization: Bearer $KEY" --data "$payload"

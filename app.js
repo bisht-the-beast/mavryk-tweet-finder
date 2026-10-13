@@ -14,3 +14,12 @@ document.getElementById('filters').onclick=e=>{const f=e.target.dataset.f;if(!f)
 fetch('data/batches.json?'+Date.now()).then(r=>r.json()).then(j=>{data=j.batches||[];
  document.getElementById('updated').textContent='Last updated: '+(j.updated?ist(j.updated):'—');render();})
  .catch(()=>document.getElementById('batches').innerHTML='<p class="muted">Could not load data.</p>');
+const NEW='https://github.com/bisht-the-beast/mavryk-tweet-finder/issues/new';
+const openIssue=(t,b)=>window.open(`${NEW}?title=${encodeURIComponent(t)}&labels=${encodeURIComponent(t)}&body=${encodeURIComponent(b)}`,'_blank','noopener');
+document.getElementById('refresh').onclick=()=>openIssue('refresh','Please run the reply scanner and publish the latest batch.');
+const af=document.getElementById('addform');document.getElementById('addbtn').onclick=()=>{af.hidden=!af.hidden;if(!af.hidden)document.getElementById('handles').focus();};
+af.onsubmit=e=>{e.preventDefault();const hs=[...new Set(document.getElementById('handles').value.split(/[,\n\s]+/).map(s=>s.trim().replace(/^@/,'')).filter(s=>/^\w{1,15}$/.test(s)))];
+ if(!hs.length){alert('Enter at least one valid X handle.');return;}openIssue('add-accounts',hs.join('\n'));};
+const chips=a=>a.length?'<div class="chips">'+a.map(h=>`<a href="https://x.com/${esc(h)}" target="_blank" rel="noopener">@${esc(h)}</a>`).join('')+'</div>':'<p class="muted">None yet.</p>';
+fetch('data/accounts.json?'+Date.now()).then(r=>r.json()).then(j=>{document.getElementById('acctlist').innerHTML=
+ '<h3>Priority</h3>'+chips(j.priority||[])+'<h3>Added by you</h3>'+chips(j.added||[]);}).catch(()=>document.getElementById('acctlist').textContent='Could not load accounts.');

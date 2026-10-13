@@ -3,5 +3,9 @@
 <header><h1>Mavryk Tweet Finder</h1><p class="sub">X posts worth replying to as @MavrykNetwork or @equiteezdotcom</p>
 <div class="bar"><div class="filters" id="filters">
 <button data-f="all" class="on">All</button><button data-f="Mavryk">Mavryk</button><button data-f="Equiteez">Equiteez</button></div>
-<span id="updated" class="updated"></span></div></header>
+<span id="updated" class="updated"></span></div>
+<div class="actions"><button id="refresh" class="act">Ask Grok Bot for latest</button><button id="addbtn" class="act alt">Add accounts to search</button></div>
+<p class="note">The page updates a few minutes after the request.</p>
+<form id="addform" hidden><textarea id="handles" rows="3" placeholder="@handle1, handle2&#10;handle3"></textarea><button type="submit" class="act">Open request</button></form>
+<details id="accts"><summary>Accounts we always check</summary><div id="acctlist" class="muted">Loading…</div></details></header>
 <main id="batches"><p class="muted">Loading…</p></main><script src="app.js"></script></body></html>
