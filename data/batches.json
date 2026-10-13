@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-13T20:21:51+05:30",
+ "updated": "2026-10-13T21:24:30+05:30",
  "batches": [
+  {
+   "time": "2026-10-13T21:24:30+05:30",
+   "label": "Refresh (page request)",
+   "posts": [
+    {
+     "url": "https://x.com/WhaleFactor/status/2110026588435763575",
+     "author": "WhaleFactor",
+     "followers": 246643,
+     "reply_as": "Equiteez",
+     "reason": "246k-follower whale account explicitly flags real estate as the next tokenization wave (56 likes, 5 replies)."
+    },
+    {
+     "url": "https://x.com/maplefinance/status/2110023258938716441",
+     "author": "maplefinance",
+     "followers": 62372,
+     "reply_as": "Mavryk",
+     "reason": "Direct RWA DeFi competitor (39 likes) hosting a public call \u2014 natural place to weigh in on credit/tokenization rails."
+    },
+    {
+     "url": "https://x.com/RWAFoundation_/status/2110027236942250183",
+     "author": "RWAFoundation_",
+     "followers": 31833,
+     "reply_as": "Mavryk",
+     "reason": "Priority account with an open reply hook (29 likes, 4 replies) perfect for planting L1/tokenization presence."
+    },
+    {
+     "url": "https://x.com/RWAFoundation_/status/2110027681320284266",
+     "author": "RWAFoundation_",
+     "followers": 31833,
+     "reply_as": "Mavryk",
+     "reason": "Priority account covering institutional settlement speed \u2014 core RWA rails narrative for an L1 reply."
+    },
+    {
+     "url": "https://x.com/tokenterminal/status/2110021204283388173",
+     "author": "tokenterminal",
+     "followers": 165321,
+     "reply_as": "Mavryk",
+     "reason": "KOL data post (18 likes, 5 replies) on RWA-DeFi composability \u2014 Mavryk's lane."
+    },
+    {
+     "url": "https://x.com/0xkyliekim/status/2110031752274325829",
+     "author": "0xkyliekim",
+     "followers": 16080,
+     "reply_as": "Mavryk",
+     "reason": "Active thread (11 likes, 13 replies) contrasting ETF flows vs tokenized RWA growth \u2014 easy join-in."
+    },
+    {
+     "url": "https://x.com/TheStreet/status/2110024099665989918",
+     "author": "TheStreet",
+     "followers": 1229825,
+     "reply_as": "Mavryk",
+     "reason": "Major media (1.2M) amplifying competitor Ondo \u2014 high-visibility thread for an RWA L1 take."
+    },
+    {
+     "url": "https://x.com/ScofieldOnchain/status/2110025464739746017",
+     "author": "ScofieldOnchain",
+     "followers": 2492,
+     "reply_as": "Mavryk",
+     "reason": "Watchlist KOL on the compliance/legal thesis Mavryk owns \u2014 substantive discussion opener."
+    }
+   ]
+  },
   {
    "time": "2026-10-13T20:21:51+05:30",
    "label": "Refresh (page request)",
