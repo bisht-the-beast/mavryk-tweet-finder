@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-13T21:24:30+05:30",
+ "updated": "2026-10-16T16:28:36+05:30",
  "batches": [
+  {
+   "time": "2026-10-16T16:28:36+05:30",
+   "label": "Refresh (page request)",
+   "posts": [
+    {
+     "url": "https://x.com/RWAFoundation_/status/2111045230309044719",
+     "author": "RWAFoundation_",
+     "followers": 32541,
+     "reply_as": "Mavryk",
+     "reason": "Priority account on institutions (BlackRock, JPM, Nasdaq) moving onto public rails and tokenization \u2014 strong Mavryk infra reply opening."
+    },
+    {
+     "url": "https://x.com/RWAFoundation_/status/2111046349399499142",
+     "author": "RWAFoundation_",
+     "followers": 32541,
+     "reply_as": "Mavryk",
+     "reason": "Priority account citing tokenized-fund DEX growth via Token Terminal \u2014 on-topic RWA market data for a Mavryk reply."
+    },
+    {
+     "url": "https://x.com/RWAFoundation_/status/2111046034864685421",
+     "author": "RWAFoundation_",
+     "followers": 32541,
+     "reply_as": "Mavryk",
+     "reason": "Short, high-engagement priority post declaring tokenization as the destination \u2014 easy visibility reply for Mavryk."
+    },
+    {
+     "url": "https://x.com/SolanaSensei/status/2111047836158881865",
+     "author": "SolanaSensei",
+     "followers": 256371,
+     "reply_as": "Mavryk",
+     "reason": "Large Solana account digest highlighting record $684M tokenized-equity supply on Solana \u2014 RWA/tokenization narrative for Mavryk."
+    },
+    {
+     "url": "https://x.com/TheInnovator360/status/2111044060806820155",
+     "author": "TheInnovator360",
+     "followers": 8892,
+     "reply_as": "Equiteez",
+     "reason": "Tokenization as a path into high-value real estate with smaller tickets \u2014 core Equiteez fractional-property angle."
+    },
+    {
+     "url": "https://x.com/PANONYGroup/status/2111046740006892004",
+     "author": "PANONYGroup",
+     "followers": 23785,
+     "reply_as": "Mavryk",
+     "reason": "RWA weekly with market size, Ant/HSBC AI payments, and Robinhood tokenized ETFs \u2014 institutional RWA news for Mavryk."
+    }
+   ]
+  },
   {
    "time": "2026-10-13T21:24:30+05:30",
    "label": "Refresh (page request)",
