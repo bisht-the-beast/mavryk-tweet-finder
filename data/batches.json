@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-16T16:28:36+05:30",
+ "updated": "2026-10-19T13:54:57+05:30",
  "batches": [
+  {
+   "time": "2026-10-19T13:54:57+05:30",
+   "label": "Refresh (page request)",
+   "posts": [
+    {
+     "url": "https://x.com/Cointelegraph/status/2112031041200222659",
+     "author": "Cointelegraph",
+     "followers": 2928787,
+     "reply_as": "Mavryk",
+     "reason": "BlackRock says tokenized funds are moving into Wall Street's core collateral and 24/7 transfer rails. Big-reach thread (400+ likes) where Mavryk can talk about tokenized assets that are actually usable as onchain collateral."
+    },
+    {
+     "url": "https://x.com/solana/status/2112056231133426024",
+     "author": "solana",
+     "followers": 4224372,
+     "reply_as": "Mavryk",
+     "reason": "Priority account with the biggest post of the morning: 1.4M addresses now hold tokenized stocks on Solana. Good spot for Mavryk to add the RWA-native angle on what holders can do with those assets beyond holding them."
+    },
+    {
+     "url": "https://x.com/TheBlockCo/status/2112086931538579861",
+     "author": "TheBlockCo",
+     "followers": 594577,
+     "reply_as": "Mavryk",
+     "reason": "JPMorgan bringing its JPMD deposit token to Ethereum, citing onchain liquidity and tokenized assets. Fresh institutional news from a priority account that Mavryk can weigh in on as an RWA-focused chain."
+    },
+    {
+     "url": "https://x.com/RWAFoundation_/status/2112077966100304026",
+     "author": "RWAFoundation_",
+     "followers": 32784,
+     "reply_as": "Mavryk",
+     "reason": "Priority account rounding up Goldman Sachs, Wells Fargo and Morgan Stanley talking tokenization on Q3 earnings calls. Natural opening for Mavryk to comment on banks moving from pilots to production."
+    },
+    {
+     "url": "https://x.com/TheBlockCo/status/2112061899168956754",
+     "author": "TheBlockCo",
+     "followers": 594577,
+     "reply_as": "Mavryk",
+     "reason": "Mirae Asset Securities plans tokenized money market funds and private bonds in Q1 2027. Asia institutional expansion story where Mavryk can join the conversation early."
+    },
+    {
+     "url": "https://x.com/ClearpoolFin/status/2112010347213447499",
+     "author": "ClearpoolFin",
+     "followers": 79888,
+     "reply_as": "Mavryk",
+     "reason": "Competitor watch: Clearpool's whitepaper launch (about $965M originated, expanding to the XRP Ledger) is getting strong engagement (350+ likes). Worth a visible Mavryk presence on onchain institutional credit."
+    },
+    {
+     "url": "https://x.com/Vunguyen9990/status/2111949980470804543",
+     "author": "Vunguyen9990",
+     "followers": 13602,
+     "reply_as": "Equiteez",
+     "reason": "Argues the hard part of tokenized property is legally enforceable ownership, not putting it onchain. Core Equiteez topic, and a good place to explain how its property tokens tie back to real legal structures."
+    },
+    {
+     "url": "https://x.com/ICOstoneform/status/2112071308062183631",
+     "author": "ICOstoneform",
+     "followers": 9224,
+     "reply_as": "Equiteez",
+     "reason": "Real estate investing fundamentals post (location, demand, yield) with solid engagement (120+ likes). Easy opening for Equiteez to connect those fundamentals to fractional, tokenized property."
+    }
+   ]
+  },
   {
    "time": "2026-10-16T16:28:36+05:30",
    "label": "Refresh (page request)",
